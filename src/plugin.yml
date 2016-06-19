@@ -1,0 +1,10 @@
+name: NPCExecutor
+author: Turqmelon
+version: 1.0
+main: com.turqmelon.NPCExecutor.NPCExecutor
+description: Binds commands to be executed to NPCs
+depend: [Citizens]
+commands:
+  npce:
+    usage: /npce
+    description: Manage the plugin
